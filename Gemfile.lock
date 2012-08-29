@@ -1,0 +1,25 @@
+GIT
+  remote: https://github.com/mobileeventguide/meg-jsontoolkit.git
+  revision: 58ca1469100c915798d68a6ce52910588fab5ae8
+  specs:
+    meg-jsontoolkit (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.0.7)
+    method_source (0.8)
+    nokogiri (1.5.5)
+    pry (0.9.10)
+      coderay (~> 1.0.5)
+      method_source (~> 0.8)
+      slop (~> 3.3.1)
+    slop (3.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  meg-jsontoolkit!
+  nokogiri
+  pry
